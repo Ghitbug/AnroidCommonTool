@@ -9,7 +9,7 @@ Android Tools 集成了常用的adb指令和gui工具, 实现快捷调用,  提�
 
 
 #### Windows安装说明
-1. 下载AnroidCommonTool的源码
+1. 下载AnroidTools的源码
 
    git clone git@github.com:Ghitbug/AnroidTools.git
 
