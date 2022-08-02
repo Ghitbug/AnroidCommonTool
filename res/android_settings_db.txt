@@ -1,0 +1,9 @@
+--------- 常用settings数据库的属性值 -----------
+设置自动锁屏时间： system screen_off_timeout 300000
+全屏沉浸模式：     global policy_control immersive.full=*
+沉浸状态栏：       global policy_control immersive.status=*
+沉浸虚拟按键：     global policy_control immersive.navigation=*
+恢复正常模式：     global policy_control null
+设置当前亮度:        system screen_brightness 100
+
+key值来自:  frameworks/base/core/java/android/provider/Settings.java

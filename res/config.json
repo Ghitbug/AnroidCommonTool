@@ -1,0 +1,47 @@
+{
+  "devicePw": {},
+  "uiTools": [
+    {
+      "name": "Jadx",
+      "tag": "反编译",
+      "fileType": "apk, dex, aar, zip",
+      "description": "查看反编译代码",
+      "path": "../tools/PLATFORM/jadx/jadx-gui.exe"
+    },
+    {
+      "name": "Classy Shark",
+      "description": "查看反编译代码",
+      "tag": "反编译",
+      "fileType": "apk, dex, aar, so, jar, class",
+      "path": "../tools/Common/classyShark.jar"
+    },
+    {
+      "name": "Apk Analyser",
+      "description": "apk分析工具",
+      "tag": "apk分析",
+      "fileType": "apk",
+      "path": "../tools/Common/apkAnalyser.jar"
+    },
+    {
+      "name": "Svg2vector",
+      "description": "查看svg图片",
+      "tag": "svg图形",
+      "fileType": "svg",
+      "path": "../tools/Common/svg2vector-applet.jar"
+    },
+    {
+      "name": "Draw9patch",
+      "tag": ".9图形",
+      "fileType": ".9",
+      "description": "查看.9图片",
+      "path": "../tools/Common/draw9patch.jar"
+    },
+    {
+      "name": "RegexBuddy4",
+      "tag": "正则表达氏",
+      "fileType": "",
+      "description": "正则表达氏工具",
+      "path": "../tools/PLATFORM/regex/RegexBuddy4.exe"
+    }
+  ]
+}

@@ -1,0 +1,3 @@
+############################## 常用广播列表 ########################
+进入开发者选项: com.android.settings.APPLICATION_DEVELOPMENT_SETTINGS
+恢复出厂设置:    android.intent.action.MASTER_CLEAR

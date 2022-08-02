@@ -1,0 +1,33 @@
+############################## 常用TAG列表 ########################
+模块                     TAGS
+
+【性能】
+Android运行时错误        AndroidRuntime|System.err|JavaBinder
+ANR                     kpi|binder_sample|dvm_lock_sample|am_anr|am_wtf|am_crash|ANR|ActivityManager
+
+【界面】
+界面                     ActivityManager|WindowManager
+
+【FW】
+亮屏                     DisplayPowerController|InputDispatcher
+OneHand                  OneHandedAnimator|OneHandedSettings
+墙纸                     WallpaperManager|WallpaperManagerService
+收音机                   RadioService|Radio
+
+【SystemUI & 锁屏】
+Statusbar                tatusBarManager
+NavigationBar            BarTransitions|LightBarController|NavBarView|NavigationBarTransitions|StatusBar|NavigationBar|NavigationBarFragment|NavigationBarView|ButtonDispatcher|NavBarInflater
+Quick Settings           QuickSettings|QSTileImpl|QSTileHost|QSPanel|CustomTile|QSTile|CustomizeTileView|quick_settings_tiles_default
+运营商显示                CarrierText
+音量按键                  VolumeDialogImpl|VolumeDialogControllerImpl|AudioService|MediaSessionService|VolumeDialog|VolumeController|VolumeSeekBarPreference
+锁屏                     Keyguard|LockSettingsService|LockPatternUtils|FingerprintController
+锁屏时钟                  ClockPickerController|RealDefaultKeyguardFactoryProvider|SelectClockPluginFragment|RealClockPluginUserSelectionHandler|KeyguardPluginSecureSettingsAbstractionImpl
+
+【Settings】
+Settings搜索             SearchIndexablesProvider|SEARCH_INDEX_DATA_PROVIDER|SearchIndexProvider
+证书                     CERTIFICATES_PATH
+Storage                  StorageChecker|DeviceStorageJobService|OptionDialog|StorageManagerHelper|StorageDeviceHelper|NotificationHelper
+
+【Contacts】
+联系人                   ContactsContract|ContactTileLoaderFactory
+###################################################################
