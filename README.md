@@ -47,10 +47,6 @@ Android Tools 集成了常用的adb指令和gui工具, 实现快捷调用,  提�
   
     cd AnroidTools/
     python3.9 setup.py
-##### 四. 验证安装成功
-   能正常打印版本信息, 则安装成功
-   `ac -v`
-
 ------------
 
 
